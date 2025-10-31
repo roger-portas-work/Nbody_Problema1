@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48ff9810-14b4-4834-b28f-43e9e5e48cda" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="33B4OYcnfWwasVPWpkY1iEGAAS7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Central.executor": "Run",
+    "Application.FactoryMain.executor": "Run",
+    "Application.File.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Planetary (1).executor": "Run",
+    "Application.Planetary.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Roger/IdeaProjects/nbody_VFINAL",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Roger/IdeaProjects/nbody_VFINAL/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roger\IdeaProjects\nbody_VFINAL" />
+      <recent name="C:\Users\Roger\IdeaProjects\nbody_VFINAL\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Planetary">
+    <configuration name="Central" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FactoryMain" />
+      <module name="nbody_VFINAL" />
+      <option name="PROGRAM_PARAMETERS" value="central 1000 10 trace 10 5e-5 0 leapfrog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="File" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FactoryMain" />
+      <module name="nbody_VFINAL" />
+      <option name="PROGRAM_PARAMETERS" value="file 1000 10 trace data/2body.txt leapfrog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="nbody_VFINAL" />
+      <option name="PROGRAM_PARAMETERS" value="1000 0 trace data/3body.txt " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Planetary" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FactoryMain" />
+      <module name="nbody_VFINAL" />
+      <option name="PROGRAM_PARAMETERS" value="planetary 1000 10 notrace 7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Central" />
+      <item itemvalue="Application.Planetary" />
+      <item itemvalue="Application.File" />
+      <item itemvalue="Application.Main" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48ff9810-14b4-4834-b28f-43e9e5e48cda" name="Changes" comment="" />
+      <created>1758777102474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758777102474</updated>
+      <workItem from="1758777103385" duration="9081000" />
+      <workItem from="1758790654611" duration="4910000" />
+      <workItem from="1758819805463" duration="125000" />
+      <workItem from="1758831999853" duration="323000" />
+      <workItem from="1758832348999" duration="109000" />
+      <workItem from="1758832470594" duration="927000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
